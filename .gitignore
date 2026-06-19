@@ -28,3 +28,9 @@ etl_database.db
 # OS files
 .DS_Store
 Thumbs.db
+
+#Additional
+__pycache__/
+*.pyc
+logs/*.log
+output/*.csv
