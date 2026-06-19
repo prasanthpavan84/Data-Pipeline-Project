@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Logs and generated artifacts
+logs/
+output/
+reports/encoding_mapping.csv
+reports/data_quality_report.txt
+etl_database.db
+*.sqlite
+*.sqlite3
+
+# Local environment
+.env
+.env.*
+
+# Notebook and editor files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
